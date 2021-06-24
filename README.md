@@ -69,3 +69,6 @@ void loop()
   delay(15);
   }
   
+tinkercad link
+
+https://www.tinkercad.com/things/1PNOxG0mwq2-potentiometer/editel
